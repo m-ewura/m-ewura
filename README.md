@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewurabapotez&show_icons=true&theme=gruvbox&hide=issues)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewurabapotez&langs_count=8)
+[![Top Langs](https://ewuraba-github-stats.vercel.app/api/top-langs/?username=ewurabapotez&langs_count=10&layout=compact)](https://github.com/ewurabapotez/my-github-stats)
+
 
 
 
