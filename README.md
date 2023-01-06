@@ -1,4 +1,4 @@
-### My Github Stats ⬇️
+# My Github Stats ⬇️
 
 ![Ewuraba's GitHub stats](https://ewuraba-github-stats.vercel.app/api?username=ewurabapotez&show_icons=true&theme=gruvbox&hide=stars,issues&count_private=true)
 
