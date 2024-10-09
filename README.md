@@ -1,5 +1,10 @@
-# My Github Stats ⬇️
+# Welcome to this page 👋
 
-![Ewuraba's GitHub stats](https://ewuraba-github-stats.vercel.app/api?username=m-ewura&show_icons=true&theme=gruvbox&hide=stars,issues&count_private=true)
 
-[![Top Langs](https://ewuraba-github-stats.vercel.app/api/top-langs/?username=m-ewura&langs_count=10&layout=compact)](https://github.com/m-ewura/my-github-stats)
+Relevant Links:
+- LinkedIn Company Page: [LinkedIn](https://linkedin.com/company/ewuraba)
+- StackOverflow Page: [StackOverflow](https://stackoverflow.com/users/19659773/ewuraba)
+- Patreon Creator Page: [Patreon](https://patreon.com/EWURABA)
+
+
+Looking for something else? Contact support@ewuraba.co for assistance.
