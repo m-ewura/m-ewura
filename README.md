@@ -2,10 +2,6 @@
 
 
 Relevant Links:
-- Company Page: [EWURABA SW ENGINEERING](https://ewuraba.co)
-- LinkedIn Company Page: [LinkedIn](https://linkedin.com/company/ewuraba)
-- StackOverflow Page: [StackOverflow](https://stackoverflow.com/users/19659773/ewuraba)
-- Patreon Creator Page: [Patreon](https://patreon.com/EWURABA)
-
+- Company Page: [ESEC](https://ewuraba.co)
 
 Looking for something else? Contact support@ewuraba.co for assistance.
